@@ -1,6 +1,6 @@
 # HASP
 
-cronograma do dia do usuário com notificações
-exercicios de concentração / memória
-desvincula a pessoa de rede social
-b2c - freemium
+cronograma do dia do usuário com notificações <br>
+exercicios de concentração / memória <br>
+desvincula a pessoa de rede social <br>
+b2c - freemium <br>
